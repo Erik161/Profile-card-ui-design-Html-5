@@ -24,3 +24,15 @@ body{
     right: 0;
     left: 0;
 }
+
+.our-team .pic:before{
+ content: "";
+ width: 100%;
+ background: #eb1768;
+ position: absolute;
+ bottom: 135%;
+ right:0;
+ left:0 ;
+    
+}
+
