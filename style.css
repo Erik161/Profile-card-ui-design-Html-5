@@ -77,6 +77,13 @@ transition: all 0.3s linear 0s;
     font-size: 22px;
     font-weight: 700;
     color: #4e5052;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    margin-bottom: 5px;
+    
+
+
+
 }
 
 
