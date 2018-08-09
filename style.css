@@ -18,7 +18,7 @@ body{
     width: 130px;
     height: 130px;
     margin-bottom: 50px;
-    background:#eb1768;
+   
     position: relative;
     z-index: 1;    
 }
@@ -80,10 +80,48 @@ transition: all 0.3s linear 0s;
     letter-spacing: 1px;
     text-transform: capitalize;
     margin-bottom: 5px;
-    
-
-
-
 }
+
+.our-team .post{
+    display: block;
+    font-size: 15px;
+    color: #4e5052;
+    text-transform: capitalize;
+}
+
+.our-team .social{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background: #eb1768;
+    position: absolute;
+    bottom: -100px;
+    left: 0;
+    transition: all 0.5s ease 0s; 
+}
+
+.our-team:hover .social{
+    bottom: 0;
+}
+
+.our-team .social li{
+    display: inline-block;
+}
+
+.our-team .social li a{
+    display: block;
+    padding: 10px;
+    font-size: 17px;
+    color:white;
+    transition: all 0.5s ease 0s;
+}
+
+
+.our-team .social li a:hover{
+    color: #eb1768;
+    background: #f7f5ec;
+    text-decoration: none;
+}
+
 
 
