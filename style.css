@@ -1,0 +1,26 @@
+
+
+body{
+    background: url(img/background.jpg);
+}
+
+.our-team{
+    padding: 30px 0 40px;
+    background: white;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+}
+
+
+.our-team .pic{
+    display: inline-block;
+    width: 130px;
+    height: 130px;
+    margin-bottom: 50px;
+    background:#eb1768;
+    position: absolute;
+    bottom: 135%;
+    right: 0;
+    left: 0;
+}
