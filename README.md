@@ -2,7 +2,7 @@
 How to create Profile card ui design-Html 5.
 
 
-## PREVIEW.[HAZ CLICK ACA](https://erik161.github.io/Profile-card-ui-design-Html-5/) 
+## PREVIEW.  [HAZ CLICK](https://erik161.github.io/Profile-card-ui-design-Html-5/) 
 
 <a href="https://imgflip.com/gif/2gbczw"><img src="https://i.imgflip.com/2gbczw.gif" title="made at imgflip.com"/></a>
 
